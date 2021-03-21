@@ -1,0 +1,8 @@
+# Visual Studio file
+
+*.vcxproj
+*.filters
+*.user
+
+# Folder generation
+x64/
