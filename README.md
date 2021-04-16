@@ -3,7 +3,7 @@ Exploration of the mandelbrot set using SFML library in C++.
 
 ## Description
 
-This is a project in view of learning the SFML library and imporve my overall C++ skills. It displays the Mandelbrot set and let you navigue inside it. There are different implementations to compute the Mandelbrot set and you can switch between each to see the differences in term of time speeed.
+This is a project in view of learning the SFML library and improve my overall C++ skills. It displays the Mandelbrot set and let you navigue inside it. There are different implementations to compute the Mandelbrot set and you can switch between each to see the differences in term of time speeed.
 
 ## Mandelbrot set
 
