@@ -1,5 +1,5 @@
 /*
-    Huge Thanks to Code Blacksmith for this piece for art.
+    Thanks to Code Blacksmith.
     *-----------------------------------------------------*
     https://www.youtube.com/watch?v=eWTGtp3HXiw
     *-----------------------------------------------------*
